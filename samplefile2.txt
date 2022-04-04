@@ -3,3 +3,4 @@ Git Revert commit 1
 
 This is sample file 2
 This is comparison test
+This is stash lecture, change in file 2

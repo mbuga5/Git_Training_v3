@@ -5,3 +5,4 @@ This is sample file 1
 This is an amazing day that the Lord has made
 This is comparison test
 
+This is stash lecture, change in file 1
